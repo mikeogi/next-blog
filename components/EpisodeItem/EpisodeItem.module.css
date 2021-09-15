@@ -1,0 +1,27 @@
+.container {
+  margin: 0;
+  display: flex;
+  width: 320px;
+  height: 360px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+.info {
+  padding: 12px;
+}
+
+.moreLink {
+  width: 100%;
+  padding: 12px 0;
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+}
+
+.label {
+  text-transform: uppercase;
+  font-weight: 600;
+}

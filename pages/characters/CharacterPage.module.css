@@ -1,0 +1,21 @@
+.container {
+  padding: 24px;
+}
+
+.content {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #fff;
+}
+
+.imgWrapper {
+  width: 200px;
+  height: 200px;
+  margin: 16px;
+}
+
+.img {
+  border-radius: 50%;
+}

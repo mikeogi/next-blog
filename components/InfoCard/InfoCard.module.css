@@ -1,0 +1,10 @@
+.container {
+  padding: 16px;
+  background-color: #fff;
+  width: 100%;
+}
+
+.label {
+  text-transform: uppercase;
+  font-weight: 600;
+}

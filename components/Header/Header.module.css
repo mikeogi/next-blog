@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  background-color: #222;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.title {
+  color: #fff;
+  margin-right: 20px;
+}
+
+.link {
+  color: #fff;
+  transition: .3s ease-in-out;
+  display: flex;
+  height: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+  font-size: 18px;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

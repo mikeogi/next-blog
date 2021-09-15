@@ -1,0 +1,35 @@
+.container {
+  padding: 24px;
+}
+
+.characters {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.character {
+  margin: 8px 0;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: initial;
+  flex-wrap: wrap;
+}
+
+.imgWrapper {
+  flex: 1;
+  min-width: 280px;
+  margin-right: 8px;
+}
+
+.img {}
+
+.infoCard {
+  flex: 3;
+  min-width: 280px;
+}
